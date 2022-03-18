@@ -100,7 +100,7 @@ button {
 }
 
 .header_price:hover {
-    background: rgba(17, 22, 35, 0.34);
+    background: rgba(120, 121, 128, 0.34);
 }
 
 /*header section*/
@@ -883,6 +883,9 @@ button {
     border: 1px solid rgba(29, 37, 60, 0.2);
     background: #F46752;
 }
+.started_btn:hover {
+    background: #f84b32;
+}
 
 .started_rain {
     position: absolute;
@@ -936,10 +939,13 @@ button {
     font-size: 14px;
     line-height: 23px;
     color: #FFFFFF;
-    height: 59px;
+    height: 61px;
     padding: 18px 42px 18px 19px;
     background: #126F85;
     border-radius: 0 5px 5px 0;
+}
+.footer_label:hover {
+    background: #0c5870;
 }
 
 .footer_icons {
@@ -998,6 +1004,9 @@ button {
     line-height: 17px;
     text-transform: uppercase;
     color: #1D253C;
+}
+.footer_btn:hover {
+    background: rgba(120, 121, 128, 0.34);
 }
 
 /*footer section*/
